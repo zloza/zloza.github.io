@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Rajsk",
+    "zasoby": "5320",
+    "pierw": "uran",
+    "czynna": false
+  },
+  {
+    "name": "Okrzeszyn",
+    "zasoby": "790",
+    "pierw": "uran",
+    "czynna": false
+  },
+  {
+    "name": "Grzmiąca",
+    "zasoby": "790",
+    "pierw": "uran",
+    "czynna": false
+  },
+  {
+    "name": "Wambierzyce",
+    "zasoby": "220",
+    "pierw": "uran",
+    "czynna": false
+  },
+  {
+    "name": "McArthur River",
+    "zasoby": "over 9000",
+    "pierw": "uran",
+    "czynna": true
+  }
+]
