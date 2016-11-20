@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kopalnie
+title: Kopalnie w Polsce
 
 ---
 <ul>
