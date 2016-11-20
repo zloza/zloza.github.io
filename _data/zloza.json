@@ -1,32 +1,100 @@
 [
   {
-    "name": "Rajsk",
-    "zasoby": "5320",
-    "pierw": "uran",
-    "czynna": false
-  },
-  {
-    "name": "Okrzeszyn",
-    "zasoby": "790",
-    "pierw": "uran",
-    "czynna": false
-  },
-  {
-    "name": "Grzmiąca",
-    "zasoby": "790",
-    "pierw": "uran",
-    "czynna": false
-  },
-  {
-    "name": "Wambierzyce",
-    "zasoby": "220",
-    "pierw": "uran",
-    "czynna": false
-  },
-  {
-    "name": "McArthur River",
-    "zasoby": "over 9000",
-    "pierw": "uran",
+    "kopalnia":"Kopalnia Soli Kłodawa S.A.",
+    "miasto": "Kłodawa",
+    "zasoby": "sol kamienna",
+    "turystyka": true,
     "czynna": true
-  }
+  },
+  {
+    "kopalnia": "Kopalnia Węgla Brunatnego Adamów",
+    "miasto": "Turek",
+    "zasoby": "wegiel brunatny",
+    "turystyka": true,
+    "czynna": true
+  },
+  {
+    "kopalnia": "Liczyrzepa",
+    "miasto": "Kowary",
+    "zasoby": "rudy zelaza, uran",
+    "turystyka": true,
+    "czynna": false
+  },
+  {
+    "kopalnia": "Kopalnia Zlota Aurelia",
+    "miasto": "Zlotoryja",
+    "zasoby": "Zloto",
+    "turystyka": true,
+    "czynna": false
+  },
+  {
+    "kopalnia": "Kopalnia uranu Okrzeszyn",
+    "miasto": "Okrzeszyn",
+    "zasoby": "ruda uranowa",
+    "turystyka": false,
+    "czynna": false
+  },
+  {
+    "kopalnia": "Kopalnia uranu Okrzeszyn",
+    "miasto": "Okrzeszyn",
+    "zasoby": "ruda uranowa",
+    "turystyka": false,
+    "czynna": false
+  },
+  {
+    "kopalnia": "Kamieniolom Romanowo",
+    "miasto": "Romanowo",
+    "zasoby": "marmut, dolomit",
+    "turystyka": false,
+    "czynna": true
+  },
+  {
+    "kopalnia": "Kopalnia Wegla Kamiennego Siersza",
+    "miasto": "Siersza",
+    "zasoby": "wegiel kamienny",
+    "turystyka": false,
+    "czynna": false
+  },
+  {
+    "kopalnia": "Wolność",
+    "miasto": "Kowary",
+    "zasoby": "rudy zelaza, uran",
+    "turystyka": true,
+    "czynna": false
+  },
+  {
+    "kopalnia": "Zalas",
+    "miasto": "Kowary",
+    "zasoby": "porfir",
+    "turystyka": false,
+    "czynna": true
+  },
+  {
+    "kopalnia": "Kopalnia soli Bochnia",
+    "miasto": "Bochnia",
+    "zasoby": "sol",
+    "turystyka": true,
+    "czynna": false
+  },
+  {
+    "kopalnia": "Kopalnia soli Wieliczka",
+    "miasto": "Wieliczka",
+    "zasoby": "sol",
+    "turystyka": true,
+    "czynna": false
+  },
+  {
+    "kopalnia": "Kopalnia Segiet",
+    "miasto": "Segiet",
+    "zasoby": "rudy cynku, zelaza",
+    "turystyka": false,
+    "czynna": false
+  },
+  {
+    "kopalnia": "Kopalnia Reden",
+    "miasto": "Dabrowa Gornicza",
+    "zasoby": "wegiel kamienny",
+    "turystyka": false,
+    "czynna": false
+  },
 ]
